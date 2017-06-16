@@ -1,0 +1,1 @@
+/home/azamosavi/Azamosavi/MachineLearning/caffe-master/build/tools/caffe train -solver solver.prototxt  -weights /home/azamosavi/Azamosavi/MachineLearning/caffe-master/models/bvlc_alexnet/bvlc_alexnet.caffemodel

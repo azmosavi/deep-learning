@@ -1,0 +1,2 @@
+http://wiki.scipy.org/NumPy_for_Matlab_Users
+http://mathesaurus.sourceforge.net/matlab-numpy.html
